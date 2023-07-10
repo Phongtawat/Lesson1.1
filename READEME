@@ -1,0 +1,7 @@
+console.log('Hello world! 2') //แสดงข้อมูลในconsole โดยการกดF12 เพื่อดู
+console.log('Hello world! 3')
+
+// statement มีการทำงานสองช่วงในบรรทัดเดียวโดยการใส่ ; ไว้เพื่อบอกว่าจบบรรทัด
+console.log('4'); console.log('5');
+
+// abc

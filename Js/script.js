@@ -1,0 +1,1 @@
+document.getElementById('title').innerText='บทที่1.1 อัพขึ้นgitครั้งละ20บาท เพื่อสมทบทุนเป็นกำลังใจในการเรียน 555'
